@@ -10,6 +10,10 @@
 		"type": "git",
 		"url": "git+https://github.com/soechun/appium-test.git"
 	},
+  	"engines": {
+	    "node": ">=8",
+	    "npm": ">=6"
+	  },
 	"dependencies": {
 		"appium": "1.6.6"
 	}
