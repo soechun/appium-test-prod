@@ -15,6 +15,6 @@
 	    "npm": ">=6"
 	  },
 	"dependencies": {
-		"appium": "1.16.0-beta.1"
+		"appium": "1.15.0"
 	}
 }
