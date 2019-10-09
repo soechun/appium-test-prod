@@ -1,16 +1,15 @@
 {
-	{
-	  "name": "example-appium-travis",
-	  "version": "1.0.0",
-	  "description": "Example project for setting up CoPilot with an NPM project built with Travis CI",
-	  "main": "index.js",
-	  "scripts": {
-	    "test": "node index.js test arguments"
-	  },
-	  "repository": {
-	    "type": "git",
-	    "url": "git+https://github.com/soechun/appium-test.git"
-	  },
+	"name": "example-appium-travis",
+	"version": "1.0.0",
+	"description": "Example project for setting up CoPilot with an NPM project built with Travis CI",
+	"main": "index.js",
+	"scripts": {
+		"test": "node index.js test arguments"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/soechun/appium-test.git"
+	},
 	"dependencies": {
 		"appium": "1.6.6"
 	}
